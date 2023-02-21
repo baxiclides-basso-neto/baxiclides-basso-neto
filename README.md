@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baxiclides Basso Neto</h1>
-<h3 align="center">A passionate frontend developerper from Brazil!</h3>
+<h3 align="center">A passionate frontend developer from Brazil!</h3>
 
 <img align="center" alt="Coding" width="100%" height="300px" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
