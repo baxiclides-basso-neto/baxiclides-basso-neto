@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **TypeScrit and ReactJS**
 
-- 💬 Ask me about **ReactJS, JavaScript, Styled-components**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Styled-components**
 
 - 📫 How to reach me **baxnetodev@gmail.com**
 
