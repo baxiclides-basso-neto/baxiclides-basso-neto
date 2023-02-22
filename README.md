@@ -31,3 +31,7 @@
   <imgalign="center"src="https://githubreadmestreakstats.herokuapp.comuser=baxiclidesbassoneto&theme=dark&hide_border=true&background=000000&stroke=00C8FF&ring=00C8FF&fire=00C8FF&currStreakNum=00C8FF&currStreakLabel=00C8FF&sideLabels=00C8FF&dates=555555" alt="GitHub streak" />
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baxiclides-basso-neto&show_icons=true&locale=en&layout=compact" alt="baxiclides-basso-neto" /></p>
+
+<p>&nbsp;<
+
