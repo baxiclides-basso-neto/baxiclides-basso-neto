@@ -28,6 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baxiclides-basso-neto&show_icons=true&locale=en" alt="baxiclides-basso-neto" /></p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=baxiclides-basso-neto&theme=dark&hide_border=true&background=000000&stroke=00C8FF&ring=00C8FF&fire=00C8FF&currStreakNum=00C8FF&currStreakLabel=00C8FF&sideLabels=00C8FF&dates=555555" alt="GitHub streak" />
+  <imgalign="center"src="https://githubreadmestreakstats.herokuapp.comuser=baxiclidesbassoneto&theme=dark&hide_border=true&background=000000&stroke=00C8FF&ring=00C8FF&fire=00C8FF&currStreakNum=00C8FF&currStreakLabel=00C8FF&sideLabels=00C8FF&dates=555555" alt="GitHub streak" />
 </p>
 
