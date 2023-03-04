@@ -7,9 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baxiclides-basso-neto&label=Profile%20views&color=0e75b6&style=flat" alt="baxiclides-basso-neto" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baxiclides-basso-neto&show_icons=true&locale=en&layout=compact" alt="baxiclides-basso-neto" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baxiclides-basso-neto&no-frame=true&margin-w=15" alt="baxiclides-basso-neto" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baxiclides-basso-neto&show_icons=true&locale=en" alt="baxiclides-basso-neto" /></p>
 
 
 
