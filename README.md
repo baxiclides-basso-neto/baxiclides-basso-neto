@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **TypeScrit and ReactJS**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Styled-components, living abroad, Brazil, Ireland, England, football, series, movies, web development technologies**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Styled-components, NextJS, NodeJS, SQL, PostgreSQL, living abroad, Brazil, Ireland, England, football, series, movies, web development technologies**
 
 - 📫 How to reach me **baxnetodev@gmail.com**
 
